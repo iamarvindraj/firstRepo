@@ -1,19 +1,40 @@
-To create local repository
-git init
-to select the all files and directories to commit
+to config git
+--------------
+  git config --global user.email "email"
+  git config --global user.name  "your uname"
+ 
+to create a local repository
+-----------------------------
+  git init
+to select all the files and directories to commit 
+------------------------------------------------
+ git add . 
+ --the above commands adds file into staging area
+----------------------------------------------------
+git commit -m "my1st commit"
+----------------------------------
+ 
 
-
-git add .
-adds files into the staging area
-
-to view the status
 git status
+ 
+---------------
+ to get the history of all the commits
+git log 
 
-git commit -m "my 1st commit"
-to commit
+------------------
 
-need to go back
-git log
+to create a new branch
+git checkout -b branchname
 
-to get the history of all the commits
-git reset --hard
+git branch
+to get all branches
+
+------------------------
+to switch between branches
+git checkout branchname
+
+----------------------------
+
+to merge
+
+ 
