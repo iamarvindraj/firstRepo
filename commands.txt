@@ -15,5 +15,5 @@ to commit
 need to go back
 git log
 
-
+to get the history of all the commits
 git reset --hard
