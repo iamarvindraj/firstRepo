@@ -35,6 +35,8 @@ git checkout branchname
 
 ----------------------------
 
-to merge
+to merge branches with the master branch
+ 1. Switch to master branch
+ 2. 
 
  
