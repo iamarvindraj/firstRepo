@@ -1,0 +1,19 @@
+To create local repository
+git init
+to select the all files and directories to commit
+
+
+git add .
+adds files into the staging area
+
+to view the status
+git status
+
+git commit -m "my 1st commit"
+to commit
+
+need to go back
+git log
+
+
+git reset --hard
