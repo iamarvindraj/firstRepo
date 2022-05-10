@@ -37,6 +37,10 @@ git checkout branchname
 
 to merge branches with the master branch
  1. Switch to master branch
+<<<<<<< HEAD
  2. 
+=======
+ 2. h
+>>>>>>> feature1
 
  
