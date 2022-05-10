@@ -1,6 +1,6 @@
 to config git
 --------------
-  git config --global user.email "albinxavier@gmail.com"
+  git config --global user.email "email"
   git config --global user.name  "your uname"
  
 to create a local repository
@@ -32,5 +32,6 @@ to get all branches
 ------------------------
 to switch between branches
 git checkout branchname
+
 
  
