@@ -33,4 +33,10 @@ to get all branches
 to switch between branches
 git checkout branchname
 
+----------------------------
+
+to merge branches with the master branch
+ 1. Switch to master branch
+ 2. h
+
  
